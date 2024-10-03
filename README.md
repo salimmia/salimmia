@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/salimmia3745" target="blank"><img src="https://img.shields.io/twitter/follow/salimmia3745?logo=twitter&style=for-the-badge" alt="salimmia3745" /></a> </p>
 
-- 🌱 I’m currently learning **Golang, React, Docker**
+- 🌱 I’m currently learning **Spring boot, Golang, React, Docker**
 
 - 📫 How to reach me **salimmia3745@gmail.com**
 
